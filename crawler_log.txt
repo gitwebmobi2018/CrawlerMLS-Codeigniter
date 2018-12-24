@@ -1,0 +1,12 @@
+October 2018 10:44:36 AM:   Crawling Started!
+October 2018 10:44:36 AM:   35 property found..
+October 2018 10:44:36 AM:   Crawling Page 1
+October 2018 10:44:47 AM:   Crawling Page 2
+October 2018 10:45:19 AM:   Crawling Page 3
+October 2018 10:45:51 AM:   Crawling Page 4
+October 2018 10:24:02 AM:   Crawling Started!
+October 2018 10:24:02 AM:   New Property.
+October 2018 10:38:52 AM:   Crawling Started!
+Mon October 2018 10:38:52 AM:   New Property.
+October 2018 10:39:13 AM:   Crawling Started!
+Mon October 2018 10:39:13 AM:   New Property.
